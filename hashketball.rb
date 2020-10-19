@@ -118,5 +118,3 @@ def game_hash
     }
   }
 end
-
-puts game_hash.class
